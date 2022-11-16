@@ -12,7 +12,7 @@
 <body>
     
     <div id="pageContainer">
-        <div id="mastHeadContainer">
+ <div id="mastHeadContainer">
             <button class="navShowHide">
                 <img src="assets/images/icons/menu.png">
             </button>
